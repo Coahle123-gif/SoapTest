@@ -3,7 +3,7 @@ const products = [
     {
         id: 1,
         name: "Lavender Dreams",
-        price: 30.00,
+        price: 25.00,
         category: ["scented", "natural"],
         description: "Calming lavender essential oil with moisturizing shea butter",
         image: "https://via.placeholder.com/300x250/E6E6FA/000000?text=Lavender+Soap"
@@ -11,7 +11,7 @@ const products = [
     {
         id: 2,
         name: "Ocean Breeze",
-        price: 100.00,
+        price: 25.00,
         category: ["scented"],
         description: "Fresh sea salt and marine botanicals for a revitalizing cleanse",
         image: "https://via.placeholder.com/300x250/87CEEB/000000?text=Ocean+Soap"
@@ -19,7 +19,7 @@ const products = [
     {
         id: 3,
         name: "Oatmeal Honey",
-        price: 11.99,
+        price: 25.00,
         category: ["natural", "organic"],
         description: "Soothing oatmeal and raw honey for sensitive skin",
         image: "https://via.placeholder.com/300x250/F4E4C1/000000?text=Oatmeal+Honey"
@@ -27,7 +27,7 @@ const products = [
     {
         id: 4,
         name: "Citrus Burst",
-        price: 13.99,
+        price: 25.00,
         category: ["scented", "natural"],
         description: "Energizing blend of orange, lemon, and grapefruit essential oils",
         image: "https://via.placeholder.com/300x250/FFE4B5/000000?text=Citrus+Soap"
@@ -35,7 +35,7 @@ const products = [
     {
         id: 5,
         name: "Charcoal Detox",
-        price: 15.99,
+        price: 25.00,
         category: ["natural"],
         description: "Activated charcoal and tea tree oil for deep cleansing",
         image: "https://via.placeholder.com/300x250/2F4F4F/FFFFFF?text=Charcoal+Soap"
@@ -43,7 +43,7 @@ const products = [
     {
         id: 6,
         name: "Rose Garden",
-        price: 16.99,
+        price: 25.00,
         category: ["scented", "organic"],
         description: "Luxurious rose petals and rosehip oil for romantic moments",
         image: "https://via.placeholder.com/300x250/FFB6C1/000000?text=Rose+Soap"
@@ -51,7 +51,7 @@ const products = [
     {
         id: 7,
         name: "Eucalyptus Mint",
-        price: 12.99,
+        price: 25.00,
         category: ["scented", "natural"],
         description: "Refreshing eucalyptus and cooling peppermint for morning freshness",
         image: "https://via.placeholder.com/300x250/98FB98/000000?text=Eucalyptus+Soap"
@@ -59,7 +59,7 @@ const products = [
     {
         id: 8,
         name: "Coconut Cream",
-        price: 10.99,
+        price: 25.00,
         category: ["natural", "organic"],
         description: "Pure coconut oil and cream for tropical hydration",
         image: "https://via.placeholder.com/300x250/FFEFD5/000000?text=Coconut+Soap"
